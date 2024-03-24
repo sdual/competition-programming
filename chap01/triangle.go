@@ -1,4 +1,4 @@
-package main
+package chap01
 
 import (
 	"fmt"
@@ -8,7 +8,7 @@ import (
 
 const maxN = 50
 
-func main() {
+func triangle() {
 	var n int
 	fmt.Scan(&n)
 
